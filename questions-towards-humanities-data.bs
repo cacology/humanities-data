@@ -1,0 +1,55 @@
+<pre class='metadata'>
+Title: Questions To Ask Your Data if You Are a Humanist (or, Just a Human)
+Status: ED
+ED: https://github.com/cacology/humanities-data
+Shortname: hum-data-queries
+Level: 1
+Editor: Lydia Warren, University of Virginia Praxis Fellows, http://praxis.scholarslab.org
+Abstract: A series of questions developed to ask about data being used for a humanities based project, but that you might ask about data in general.
+Warning: Not Ready
+Date: 2016-03-30
+</pre>
+
+# Introduction
+We met 2015-16, blah blah. Defined this stuff.
+
+# Middle Sections
+We're talking about stuff, but we can also have some definitions
+
+A <dfn>jaunty hat</dfn> looks exceptionally good on you today.
+
+*Issues in Picking a data set for sonification-*
+
+What can we represent using sound and how? What are we
+showing/highlighting/saying with what we sonic representations?
+
+Are we being journalistic? Editorializing? Making a point, or proving a
+thesis? Or, are we allowing a set of data to show us connections and
+information we did not know to look for?
+
+Do we want granular blips or static pitches that change in amplitude?
+Harmonies? Mimetic sounds?
+
+What lends itself to sonification in terms of scale? Do years, or decades,
+become minutes? How do we decide this, and what is the significance or
+these decisions?
+
+What is reliable data? Government? Corporate? Regarding our interest in
+prisons and prisoners- how do we acquire the data? What are the ethical
+implications of left out, non reported or under represented populations?
+How do we know what/whom we are missing?
+
+How do we make accessible our replication process for sonifying data? Can
+we teach this? Is the bar of entry too high if we are using
+supercollider/coding languages? How do we make sure it is model-able in
+Garage Band, Audacity, etc.?
+
+In terms of workflow to create a portal and online home for the
+sonifications, what are the groups we need to delineate among us, and who
+is in charge of them? Group member(s) need to gather the data for
+sonification, sonify, document, portal/website building, curriculum
+building- who does what, and why? What are the areas of intersection
+between groups?
+
+
+Did you notice this 'jaunty hats'. 
